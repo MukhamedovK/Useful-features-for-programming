@@ -1,3 +1,3 @@
 # Useful-features-for-programming
 
-([Django features](https://gist.github.com/DJWOMS))
+[Django features](https://gist.github.com/DJWOMS)
